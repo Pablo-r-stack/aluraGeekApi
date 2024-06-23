@@ -1,5 +1,3 @@
-[spanish](https://github.com/SofiDevO/alurageek-API/tree/spanish)
-
 ## Deploy JSON Server to Vercel
 
 A template for deploying [JSON Server](https://github.com/typicode/json-server) on [Vercel](https://vercel.com), allowing you to run a fake REST API online 🐣!
@@ -41,8 +39,6 @@ https://alurageek-api.vercel.app/
 ```
 
 ## Build It Yourself
-
-If you'd like to create the project from scratch, I have a [YouTube video Tutorial (Spanish) that guides you through deploying your own fake API with db-json and Vercel.](https://www.youtube.com/channel/UC36_js-krsAHAEAWpEDhHtw) 
 
 ### Step 1
 
@@ -157,4 +153,9 @@ Go to your Vercel account, connect a new project with your repository, and deplo
 ## You must be patient
 
 It could take a couple of minutes to finally work. ⏰🥹
+
+### Special Thanks to
+
+SofiDevO
+https://github.com/SofiDevO
 
