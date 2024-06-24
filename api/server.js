@@ -1,6 +1,6 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-const router = jsonServer.router(process.env.DB_FILE || 'db.json'); // Lee la ruta desde la variable de entorno
+const router = jsonServer.router(process.env.DB_FILE || 'db.json'); // Lee la ruta desde la variable de entorno o usa una por defecto
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
