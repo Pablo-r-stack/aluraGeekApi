@@ -1,30 +1,14 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-const router = jsonServer.router('db.json');
+const router = jsonServer.router(process.env.DB_FILE || 'db.json'); // Lee la ruta desde la variable de entorno
 const middlewares = jsonServer.defaults();
 
-// Create the tmp directory if it doesn't exist (ensures persistence within a single test run)
-const fs = require('fs');
-if (!fs.existsSync(`${process.cwd()}/tmp`)) {
-  fs.mkdirSync(`${process.cwd()}/tmp`);
-}
-
-// Use the FileSync adapter with the tmp directory path
-const adapter = new jsonServer.lowdb.adapters.FileSync(`${process.cwd()}/tmp/db.json`);
-const db = jsonServer.low(adapter);
-
 server.use(middlewares);
-
-// Add this before server.use(router)
-server.use(jsonServer.rewriter({
-  '/api/*': '/$1',
-  '/product/:resource/:id/show': '/:resource/:id'
-}));
-
 server.use(router);
 
-server.listen(3000, () => {
-  console.log('JSON Server is running');
+const PORT = process.env.PORT || 3000;
+server.listen(PORT, () => {
+  console.log(`JSON Server is running on port ${PORT}`);
 });
 
 // Export the Server API
