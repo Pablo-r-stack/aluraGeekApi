@@ -1,110 +1,138 @@
 {
-    "product": [
-        {
-            "id": 1,
-            "name": "Trooper Mug",
-            "price": "$60.00",
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "url": null
-        },
-        {
-            "id": 2,
-            "name": "Funko Vader",
-            "price": "$60.00",
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "url": null
-        },
-        {
-            "id": 3,
-            "name": "Grogu (Baby Yoda)",
-            "price": "$100.00",
-            "img": "https://i5.walmartimages.com/seo/Star-Wars-The-Mandalorian-Grogu-Plush-Toy-with-Soft-Body-11-inch-Character-Figure_74b03919-f547-4081-8f55-d6abd2d8f27c.329680b09da84f50cdfa893fff98e1eb.jpeg",
-            "url": null
-        },
-        {
-            "id": 4,
-            "name": "Lightsaber",
-            "price": "$3000.00",
-            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
-            "url": null
-        },
-        {
-            "id": 5,
-            "name": "Darth Vader",
-            "price": "$450.00",
-            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
-            "url": null
-        },
-        {
-            "id": 6,
-            "name": "X12 Plus",
-            "price": "$4500.00",
-            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
-            "url": null
-        },
-        {
-            "id": 7,
-            "name": "Control Xbox One",
-            "price": "$950.00",
-            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
-            "url": null
-        },
-        {
-            "id": 8,
-            "name": "Steam Card",
-            "price": "$200.00",
-            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
-            "url": null
-        },
-        {
-            "id": 9,
-            "name": "Control usb",
-            "price": "$500.00",
-            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
-            "url": null
-        },
-        {
-            "id": 10,
-            "name": "Oculus Quest 2",
-            "price": "$4500.00",
-            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
-            "url": null
-        },
-        {
-            "id": 11,
-            "name": "Pikachu Itachi edition",
-            "price": "$500.00",
-            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
-            "url": null
-        },
-        {
-            "id": 12,
-            "name": "Pikachu Deadpool",
-            "price": "$250.00",
-            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
-            "url": null
-        },
-        {
-            "id": 13,
-            "name": "Spiderman Hot Toys",
-            "price": "$660.00",
-            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
-            "url": null
-        },
-        {
-            "id": 14,
-            "name": "Funko Gandalf en Gwaihir",
-            "price": "$600.00",
-            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
-            "url": null
-        },
-        {
-            "id": 15,
-            "name": "Cell DBZ",
-            "price": "$450.00",
-            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
-            "url": null
-        }
-    ]
+  "products": [
+    {
+      "name": "Dragon Ball - Android 17",
+      "price": "75.00",
+      "img": "https://www.tradeinn.com/f/13888/138888554_4/tamashi-nations-figure-android-17-battle-of-gods-dragon-ball-super.jpg",
+      "url": "",
+      "id": 1
+    },
+    {
+      "name": "Demon Slayer Manga Nº 19",
+      "price": "45.00",
+      "img": "https://acdn.mitiendanube.com/stores/001/211/538/products/demonslayer08-86ddb5bb843fea065d17075067071217-640-0.jpg",
+      "url": "",
+      "id": 2
+    },
+    {
+      "name": "N. Switch Oled Pkmn Scarlet & Violet",
+      "price": "872000",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_668236-MLA52554642874_112022-O.webp",
+      "url": "https://www.mercadolibre.com.ar/nintendo-switch-oled-heg-001-64gb-pokemon-scarlet-violet-edition-color-rojo-y-violeta-y-negro-2022/p/MLA19879748#searchVariation=MLA19879748&position=4&search_layout=stack&type=product&tracking_id=c2d85545-618d-4e64-a9a3-7d728e88bb4a",
+      "id": 3
+    },
+    {
+      "name": "Dungeon & Drinks",
+      "price": "22999",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_807312-MLU72637165689_112023-O.webp",
+      "url": "https://www.mercadolibre.com.ar/dungeon-drinks-juego-de-mesa-familiar-previas-cartas-bureau/p/MLA19888004#reco_item_pos=1&reco_backend=uni-p2p-graphd2d&reco_backend_type=low_level&reco_client=vip&reco_id=1c46f54d-c4a0-4284-b34a-e832390f8656",
+      "id": 4
+    },
+    {
+      "name": "Varita Harry Potter",
+      "price": "20425",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_605660-MLA71351823792_082023-F.webp",
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1111916048-varita-harry-potter-original-ollivander-elegi-tu-modelo-_JM?searchVariation=173900664916#searchVariation=173900664916&position=39&search_layout=stack&type=item&tracking_id=19af0941-6b79-400b-bf48-262b2581a9ad",
+      "id": 5
+    },
+    {
+      "name": "D&D Essential Rol Kit",
+      "price": "100000",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_778609-MLA41027779807_032020-O.webp",
+      "url": "https://www.mercadolibre.com.ar/dungeons-and-dragons-essential-kit-rol-dd/p/MLA22167842#searchVariation=MLA22167842&position=3&search_layout=stack&type=product&tracking_id=29fdd1c6-28d8-40a1-820d-c6642575d27a",
+      "id": 6
+    },
+    {
+      "name": "UNO- The Legend of Zelda",
+      "price": "6.99",
+      "img": "https://m.media-amazon.com/images/I/81Jt8Jmwp-L._AC_SY879_.jpg",
+      "url": "https://www.amazon.com/-/es/Mattel-Games-UNO-Legend-Zelda/dp/B07BMKV6MT/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1HDL39MUK712U&dib=eyJ2IjoiMSJ9.en2crFoINsj3mveTPvcCIb1hHi1NfdEGnK-S2GuI2kxXeYyMqvJ5To-kz_FBr06jxiuHUXzHhD4IZYDSsaOmUZxNjcCfZkz1mmTu6m3DGDYyoSNH8Ut1JgiE4Yz5-RBfuwr46znzjt4quNoYKeBiiQgdGf1Y-ReyiNb1jOc7rvNh23iHwsI9m70JUQAyljGY8cCEvvHukegK1u3QPPGFJ5tggT_lMkjTUs-RgSr5n9c.fZ6Hz1KbgJjM2JduDQIqeErsmU3_gumJz_YlJ-AymTk&dib_tag=se&keywords=zelda&qid=1719412390&sprefix=ze%2Caps%2C382&sr=8-2",
+      "id": 7
+    },
+    {
+      "name": "Crash Bandicoot Soporte Móvil & Joystick",
+      "price": "24.99",
+      "img": "https://m.media-amazon.com/images/I/51BOlZkx+6L._AC_SY879_.jpg",
+      "url": "https://www.amazon.com/-/es/Exquisite-Gaming-Bandicoot-controlador-dispositivos/dp/B08KJHHZ61/ref=sr_1_4?crid=27NMSGBJEIXAR&dib=eyJ2IjoiMSJ9.99FWkvyugiqZoxW2cFEQ7p2XqkB0KiU8-23HsEI6u5VNQIwS7kdDuEsDdXUCq6WF-OA97Yq2CJm4ZYp-2nchz57uaquRlSQQwfrz3ZRa61ji91eshxWTjrq5ziGvxKZouPo-L1jYkIyL9KBbZQHfUvy-48rAzKT3lsCkzAWCQcmidkmq7NeaEqRSYpNMRUxmthvqaRohMdTOAszoHqpegw7SV_cDw6JBJDueKvUi90IcU8sVlqn722bllYTfSGMqMIsLzyluZiuATJCjn-HC_RTwAfa47hnjegd4wxBeZg8.Yc3tkDs82-ckunicx-17o21A10ESg5cQs3XoqUbrsOo&dib_tag=se&keywords=crash+bandicoot&qid=1719412467&sprefix=crash+%2Caps%2C231&sr=8-4",
+      "id": 8
+    },
+    {
+      "name": "Redmi Buds 4 - H. Potter",
+      "price": "107.02",
+      "img": "https://m.media-amazon.com/images/I/41OZzWxyJXL._AC_SX425_.jpg",
+      "url": "https://www.amazon.com/-/es/Redmi-Harry-Potter-Buds-4/dp/B0C1KMDPZR/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1SE082W1SIFRO&dib=eyJ2IjoiMSJ9.MhwEMG0JmBcX01C_xg9F8Px0xs2wr8NUN2AfLQikn0H7aOgeaZRurTpOD-rT_V4u4w8Epe1Eab83dlpi0Xp9AkaE9ILg_HP64baxMRgXSxlycw6l_z3-FCTv81ljVhN3GXDM8KQfMiu7egAvahlgTWt1LX-9jbFBsuNa8HzJoCww4ZJsXI1LPI1uuL8MJeAa4rXqvZTXzbPjzIb9ex__1AInScZG1sNQsqtEVnRdH6Q.r9p2aG_LPWm4kkY4Bs9HGXreVTVwBiJUdEsgUtT0LWM&dib_tag=se&keywords=xiaomi+edition&qid=1719412578&sprefix=xiaomi+editio%2Caps%2C230&sr=8-2",
+      "id": 9
+    },
+    {
+      "name": "Eva00",
+      "price": "58.59",
+      "img": "https://m.media-amazon.com/images/I/61n0Xm-OjYL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com/-/es/Neon-Genesis-Evangelion-Unit-00-Spirits/dp/B084DFBH3M/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3KZCX30AX81L1&dib=eyJ2IjoiMSJ9.My9TWWMS0novAOdGiLPPqHE3ODJYm8VeqWqp1GrFHYSBrtf5-O36aDNG_nRoN0gyH6paZgZ_wB9qfkMq4GFcqV_OAsubej5tCFs8hUzRVwkfu9jwrj0JOBmiRhCBQ7cEaKQqeCld1vSActq37cdVb6wG52qjaN2zRDZL4MFVt-Je43Oz4JtI2ZMGEG69T0r9zXq3JV4XKFHRbM6884mvxJv6phwnoi-6l-Iu64Kg7hY.ctgQWWCbkUeoVzVcn-iYldrJRektPtDu5XocWjirBi4&dib_tag=se&keywords=redmi+evangelion&qid=1719412755&sprefix=redmi+evangelio%2Caps%2C220&sr=8-2",
+      "id": 10
+    },
+    {
+      "name": "Catan - GOT",
+      "price": "60.99",
+      "img": "https://m.media-amazon.com/images/I/81EynmrjWCL._AC_SX569_.jpg",
+      "url": "https://www.amazon.com/-/es/Catan-Thrones-Fantasy-Flight-Games/dp/B07746H7R2/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MGP6GGV4P2MR&dib=eyJ2IjoiMSJ9.aDf4BYLqvDvSvqXG8jy4ITmKakLYvXw6CCHfPlbtoS8IrzI0l5EtS_R9EDUxB_M0uBiJSHT6bVClRKtB1PAU5Sd7PcyPV1pBdHuQeSb_JtKxMjygCrls5bV-XzY1sJ1167bE-6M7K2pplSsN1iUJUwmaYQjOgfC5Z7GLquIQVfnKWi3T5BHmJmn30tVCqIlu_DfWaeBcmwUkjl5DqsV0CyVf0NFPeiUlrTqThCCvnh_iyhKLDch19cBeovKVPWGROo0ZM6qODcGt-z-RJuGl8ycm7ar20y6oKKOmc8ochcI.OixlBNgAwSVykeYkkkKOFd-xx4NP7AHV1ldOMMrTm00&dib_tag=se&keywords=catan&qid=1719412867&sprefix=cata%2Caps%2C221&sr=8-5&th=1",
+      "id": 11
+    },
+    {
+      "name": "Dragon Ball - Son Goku",
+      "price": "154.00",
+      "img": "https://i.ebayimg.com/images/g/-yEAAOSwOuRj8Czd/s-l1200.webp",
+      "url": "",
+      "id": 12
+    },
+    {
+      "name": "Saint Seiya Movie Collection",
+      "price": "24.95",
+      "img": "https://m.media-amazon.com/images/I/91x0n3mmWkL._SL1500_.jpg",
+      "url": "https://www.amazon.com/-/es/Hideyuki-HORI/dp/B08WJR1Z7J/ref=sr_1_2?crid=2EY2TLFGOHQB4&dib=eyJ2IjoiMSJ9.w2NfBD2VVaEQoQCla2f5Fs5jkiLn2dPJsaNfgnz7djyErzxgyB90TR2i1wZZTY3xaskgca4O0BAz90JpecAa5_Wr6hs_CCH7gnhzGwKcLq8lr6W4MSHv-p4dAGjZNThoAWk-7vEAktmCulDYvR6wHS93AA8jTAbPF433p1AiizbD9HkzI3k9bWAtoqPp4bpcpZ41YM_O3JjjB-g0ALxcVYlbekGyODHOPlZexD0x_a3xAXJypyglXTnQD-fELII5Res5JWp6PTwqO1o1dsa2N1Ik6k2q8n63Xs3kCx4vraU.dpEFXTW8haPVnOQG7_71nQNeO4T5FQwEMQt6wnzgQSU&dib_tag=se&keywords=saint+seiya&qid=1719413159&sprefix=saint+sei%2Caps%2C226&sr=8-2",
+      "id": 13
+    },
+    {
+      "name": "LEGO - Marvel Infinity Gauntlet",
+      "price": "64.99",
+      "img": "https://m.media-amazon.com/images/I/61iPG6i1miL._AC_SX522_.jpg",
+      "url": "https://www.amazon.com/-/es/LEGO-Marvel-Infinity-76191-coleccionables/dp/B08YP94QJN/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QE0BWIQWWBDU&dib=eyJ2IjoiMSJ9.lVdGTYM-Dz5nB0fttKpQJH4a1dVYfXSUloNr9OzNFCjyoojzKZTjX1yiXvcnz1sOE9szXhRZjdTecCKEQ_moM3cGnHZRrbSIEau0fxyorp-ZmYH49gum1sfgs_XKcmplRb1S0haxsFXphU-zsfMUWws5-PujQL96K5OorhORh01iT7g3SHOLH4XDNjhiiC8CJOZoP14TeytmG3K-NOIgOLsXiPdM-EG7cxFqD1mu1Iw.XNQYLVgwSWYAQgL_TTLsWap8TCn2ava26KXHC9AgUVM&dib_tag=se&keywords=marvel&qid=1719413290&sprefix=marve%2Caps%2C224&sr=8-3&th=1",
+      "id": 14
+    },
+    {
+      "name": "Dev Mug",
+      "price": "20.99",
+      "img": "https://m.media-amazon.com/images/I/61FjrbtcAGL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "url": "https://www.amazon.com/-/es/Bubble-programador-onzas-Programmer-Computer/dp/B09J4FLFCS/ref=sr_1_4?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=33CUU9UHAP4Y1&dib=eyJ2IjoiMSJ9.sCj8QaGLnoM1XbcATo6Qsx2sievba56oEoTsZ_XIlzfjt0mM1JnuCIfZ3XSY7Eu0LDzL8th8QRLthJg2hWcH4CGRLW-X8ZDzJmR69nZMQ3LDFqrl9-QXaP0cVwaZPOcn6KvINLRfIopvlWuzh3gbLESxVWmc5KerO33da00vXB5hxicHdIoRHwF3auJDTEUoMXpnBg2dichvkCLliXHgjAzQJVpkNzHuWbhnyCcqSWxRQ5gCMBIgUmsNw1zdDkCS0XbF_2DslVosecBqakvXwxevRj185sLYELMaJ2WEKn0.zPUS4oEMY4IAG3Rfosm5kJDDVZdQ5XLGBz0J-55VcOI&dib_tag=se&keywords=coding+mug&qid=1719413397&sprefix=coding+mg%2Caps%2C201&sr=8-4",
+      "id": 15
+    },
+    {
+      "name": "Mario - Calcetines",
+      "price": "11.31",
+      "img": "https://m.media-amazon.com/images/I/81CG1z6AVLL._AC_SX569_.jpg",
+      "url": "https://www.amazon.com/-/es/Paquete-calcetines-deportivos-hombre-multicolor/dp/B0BLCSGGF5",
+      "id": 16
+    },
+    {
+      "name": "Daft Punk - Remera",
+      "price": "20425.00",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_778914-MLA72000766762_102023-O.webp",
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1525909864-remera-daft-punk-music-diseno-m2-100-algodon-_JM#position=12&search_layout=stack&type=item&tracking_id=0a30eb49-536f-4931-867d-ed460e8c6112",
+      "id": 17
+    },
+    {
+      "name": "Llaver - The mandalorian",
+      "price": "9.07",
+      "img": "https://m.media-amazon.com/images/I/81FVpglzcFL._AC_SY741_.jpg",
+      "url": "https://www.amazon.com/-/es/Llavero-peltre-casco-Mandaloriano-Star/dp/B08WNHW9MF/ref=sr_1_44?crid=2M7VJXFFJEWN7&dib=eyJ2IjoiMSJ9.fLR1LR2V5b62WrNF_bX7aVFn-fFcXptmC_-GTGLnmJz0-9Ny0-BNXidoQkTiqL8z_ijwawaeqayeHO0B4TsldIl4esTNOTUALj3WTwD-ZId-0X1-7T0qnQuyUuYsobacGgrn4tBj8qrWepANDvpzLZ-Gu3POlxzOfzqkJkz6wddTdQtTWvflaGRE4Bz-nF6qpUL3q78UT4tR9o823w8KDZm1Guf3Pxe18kKWaLIPk2hoNmLqxa3r_yCqgpRhbIjX7sFhfjXOVe_8dpckI5TfC2SlwTz2t35TVSMas4xVRzI.TaePfBDTXuLmo5gGRFBdXCmMpeHZMMx0bGJwX1kslWU&dib_tag=se&keywords=mandalorian&qid=1719414313&sprefix=mandaloria%2Caps%2C348&sr=8-44",
+      "id": 18
+    },
+    {
+      "name": "Jinx - Arcane lol",
+      "price": "74.99",
+      "img": "https://i.ebayimg.com/images/g/OHsAAOSwhm5j8P--/s-l1600.webp",
+      "url": "https://www.ebay.com/itm/134456012802?itmmeta=01J1AHFYJ0C7SEXJTE0N4GCDD6&hash=item1f4e33f002:g:OHsAAOSwhm5j8P--&itmprp=enc%3AAQAJAAAA8JH4bcivnVD7VLQox3xgjpLZkd4CY1MXuf0LHZsL7SMKnt0JrdlacUjrO7qfuKrAuSOPOuhgrvlftQ8UMDEbTorhHEkV5ooS0iXLII7nRQl4SU3SVgk6u%2By155CnijYNAnUwwo%2B5ntyGOpJFGg5M5J8pIC4lrnUS5xi84OHUKHrx965%2FIdJqPO9dYv1%2B%2BLCUTFsozz94EwF9euSRT%2BBw51P6%2FSeEU1wddRaBtLXrod49MX9mCUEHMloZf9DbTmuQr0Sjf3wreOgTbL1FNBHx1YYtACWiJNKbTNuhpPH5o7mxLwTsO9lUBgXwXQppsYqueA%3D%3D%7Ctkp%3ABk9SR5Lpv9GKZA",
+      "id": 19
+    }
+  ]
 }
 
