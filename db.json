@@ -133,6 +133,105 @@
       "url": "https://www.ebay.com/itm/134456012802?itmmeta=01J1AHFYJ0C7SEXJTE0N4GCDD6&hash=item1f4e33f002:g:OHsAAOSwhm5j8P--&itmprp=enc%3AAQAJAAAA8JH4bcivnVD7VLQox3xgjpLZkd4CY1MXuf0LHZsL7SMKnt0JrdlacUjrO7qfuKrAuSOPOuhgrvlftQ8UMDEbTorhHEkV5ooS0iXLII7nRQl4SU3SVgk6u%2By155CnijYNAnUwwo%2B5ntyGOpJFGg5M5J8pIC4lrnUS5xi84OHUKHrx965%2FIdJqPO9dYv1%2B%2BLCUTFsozz94EwF9euSRT%2BBw51P6%2FSeEU1wddRaBtLXrod49MX9mCUEHMloZf9DbTmuQr0Sjf3wreOgTbL1FNBHx1YYtACWiJNKbTNuhpPH5o7mxLwTsO9lUBgXwXQppsYqueA%3D%3D%7Ctkp%3ABk9SR5Lpv9GKZA",
       "id": 19
     }
+  ],
+  "videos":[
+    {
+            "title": "Copa America- Resumen Canada-Uruguay",
+            "category": "Futbol",
+            "url": "https://www.youtube.com/watch?v=sWjIN_xgcl8&t=1s",
+            "id": 1
+        },
+        {
+            "title": "Eurocopa- Resumen Alemania-España",
+            "category": "Futbol",
+            "url": "https://www.youtube.com/watch?v=6A6pzl7eLSs",
+            "id": 2
+        },
+        
+        {
+            "title": "NBA- OffSeason",
+            "category": "Basquetbol",
+            "url": "https://www.youtube.com/watch?v=KJ2rJiNV9Go",
+            "id": 3
+        },
+        {
+            "title": "MMA- Knockouts Junio 2024",
+            "category": "Contacto",
+            "url": "https://www.youtube.com/watch?v=FvC6HvxZ6sM",
+            "id": 4
+        },
+        {
+            "title": "BOX- Whittaker vs Graidia",
+            "category": "Contacto",
+            "url": "https://www.youtube.com/watch?v=PnEaz6s-zj0",
+            "id": 5
+        },
+        {
+            "title": "F1- Highlights 2024 British GP",
+            "category": "Automovilismo",
+            "url": "https://www.youtube.com/watch?v=yPvoKz6tyJs",
+            "id": 6
+        },
+        {
+            "title": "Dakar- Best of 2024",
+            "category": "Automovilismo",
+            "url": "https://www.youtube.com/watch?v=Q4tY92MuCiU",
+            "id": 7
+        },
+        {
+            "title": "Kickboxing- Top 2024 Knockouts",
+            "category": "Contacto",
+            "url": "https://www.youtube.com/watch?v=_zNMf2upy-I",
+            "id": 8
+        },
+        {
+            "title": "Kickboxing- Rodtang vs Puric",
+            "category": "Contacto",
+            "url": "https://www.youtube.com/watch?v=8FcZLcs9oRI",
+            "id": 9
+        },
+        {
+            "title": "Copa America- Resumen Argentina-Canadá",
+            "category": "Futbol",
+            "url": "https://www.youtube.com/watch?v=olFD70ssJ58",
+            "id": 10
+        },
+        {
+            "title": "Eurocopa- Resumen Paises Bajos- Inglaterra",
+            "category": "Futbol",
+            "url": "https://www.youtube.com/watch?v=yc3yNjyYeBI",
+            "id": 11
+        },
+        {
+            "title": "Argentina Basquetbol- La Generacion Dorada 2004",
+            "category": "Basquetbol",
+            "url": "https://www.youtube.com/watch?v=fwWg1y7ucwA",
+            "id": 12
+        },
+        {
+            "title": "NBA- Celtics-Dallas 2024",
+            "category": "Basquetbol",
+            "url": "https://www.youtube.com/watch?v=x-Gm07VjCu8",
+            "id": 13
+        },
+        {
+            "title": "TC2000- Ganadores en Posadas 2024",
+            "category": "Automovilismo",
+            "url": "https://www.youtube.com/watch?v=34NDMq_HcEQ",
+            "id": 14
+        },
+        {
+            "title": "NBA- Epic Moments",
+            "category": "Basquetbol",
+            "url": "https://www.youtube.com/watch?v=CXLM08fZO5o",
+            "id": 15
+        },
+        {
+            "title": "F1- Verstappen vs Hamilton vs Norris",
+            "category": "Automovilismo",
+            "url": "https://www.youtube.com/watch?v=IcRFHMRRb0A",
+            "id": 16
+        }
   ]
 }
 
