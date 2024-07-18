@@ -247,7 +247,8 @@
       "creationDate": "2023-07-15",
       "available": true,
       "state": true,
-      "category": "Silla de ruedas"
+      "category": "Silla de ruedas",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_604884-MLC50680729794_072022-O.webp"
     },
     {
       "id": 2,
@@ -256,7 +257,8 @@
       "creationDate": "2023-06-20",
       "available": false,
       "state": true,
-      "category": "Muletas"
+      "category": "Muletas",
+      "img": "https://acdn.mitiendanube.com/stores/619/750/products/muletas-de-aluminio1-2493324db17b18802215162193080272-640-0.jpg"
     },
     {
       "id": 3,
@@ -265,7 +267,8 @@
       "creationDate": "2023-05-10",
       "available": true,
       "state": false,
-      "category": "Andadores"
+      "category": "Andadores",
+      "img": "https://http2.mlstatic.com/D_832812-MLA77125892715_062024-C.jpg"
     },
     {
       "id": 4,
@@ -274,63 +277,71 @@
       "creationDate": "2023-04-05",
       "available": true,
       "state": true,
-      "category": "Fajas lumbares"
+      "category": "Axialess",
+      "img": "https://i.pinimg.com/474x/2d/95/f3/2d95f34495005f3f3ce60f6d14503883.jpg"
     },
     {
       "id": 5,
-      "name": "Collar cervical suave",
+      "name": "Collar cervical blando",
       "description": "Collar cervical suave para comodidad y soporte.",
       "creationDate": "2023-03-15",
       "available": false,
       "state": false,
-      "category": "Collares cervicales"
+      "category": "Axiales",
+      "img": "https://http2.mlstatic.com/D_938920-MLA70012037899_062023-C.jpg"
     },
     {
       "id": 6,
-      "name": "Silla de ruedas estándar",
+      "name": "Silla de ruedas niños",
       "description": "Una silla de ruedas ligera y fácil de maniobrar.",
       "creationDate": "2023-02-10",
       "available": true,
       "state": false,
-      "category": "Silla de ruedas"
+      "category": "Silla de ruedas",
+      "img": "https://acdn.mitiendanube.com/stores/001/333/542/products/61-8f9be048b73cbdf2cc16763145810964-640-0.jpg"
     },
     {
       "id": 7,
-      "name": "Muletas de aluminio",
-      "description": "Muletas de aluminio con ajuste de altura.",
+      "name": "Baston Canadiense",
+      "description": "Bastones regulables, detalles a la vista.",
       "creationDate": "2023-01-20",
       "available": true,
       "state": true,
-      "category": "Muletas"
+      "category": "Bastones",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_869840-MLA75008388333_032024-O.webp"
     },
     {
       "id": 8,
-      "name": "Andador plegable",
-      "description": "Andador plegable para facilitar el almacenamiento.",
+      "name": "Cama ortopédica articulada",
+      "description": "Cama ortopédica aluminio, poco uso.",
       "creationDate": "2022-12-25",
       "available": false,
       "state": true,
-      "category": "Andadores"
+      "category": "Cama ortopedica",
+      "img": "https://www.camsi.com.ar/fotos/cama-ortopedica-elctrica-varios-movimientos1583952455.jpg"
     },
     {
       "id": 9,
-      "name": "Faja lumbar ajustable",
-      "description": "Faja lumbar ajustable para soporte de espalda.",
+      "name": "Colchón antiescaras",
+      "description": "Colchon antiescaras silfab, poco uso",
       "creationDate": "2022-11-30",
       "available": true,
       "state": false,
-      "category": "Fajas lumbares"
+      "category": "Colchon antiescaras",
+      "img": "https://http2.mlstatic.com/D_763030-MLA75171125946_032024-O.jpg"
     },
     {
       "id": 10,
-      "name": "Collar cervical suave",
-      "description": "Collar cervical suave para comodidad y soporte.",
+      "name": "Cabestrillo",
+      "description": "Cabestrillo con soporte axilar",
       "creationDate": "2022-10-15",
       "available": false,
       "state": true,
-      "category": "Collares cervicales"
+      "category": "Miembro Superior",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_677311-MLA53512656449_012023-O.webp"
     }
   ]
+
 
 }
 
